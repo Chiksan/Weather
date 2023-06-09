@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  height: 30px;
+}
+.img {
+  background-image: url(https://wallup.net/wp-content/uploads/2017/03/29/484427-mountains-minimalism.jpg);
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+}
+
+.element {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
